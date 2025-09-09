@@ -1,1 +1,24 @@
 # food_store_web
+Tên dự án : Website bán hàng tích hợp hệ thống gợi ý dựa trên lọc cộng tác cho công ty TNHH Tin học Á Châu
+        Giới thiệu sơ lược: Dự án này hướng đến việc xây dựng một nền tảng website bán hàng trực tuyến cơ bản, cho phép người dùng xem thông tin sản phẩm, thêm vào giỏ hàng và tiến hành đặt hàng. Điểm nổi bật của dự án là tích hợp hệ thống gợi ý sản phẩm sử dụng kỹ thuật lọc cộng tác, giúp đề xuất các mặt hàng phù hợp dựa trên hành vi và sở thích của những người dùng có đặc điểm tương đồng. Đây là một đề tài mang tính thực tiễn cao, phù hợp với xu hướng cá nhân hóa trong thương mại điện tử hiện nay, đồng thời tạo điều kiện cho sinh viên áp dụng các kiến thức đã học vào môi trường làm việc thực tế.
+Phân tích, đánh giá đề tài/ nội dung thực tập ngành nghề /thực tập tốt nghiệPhân tích thực trạng của vấn đề liên quan đến đề tài mà sinh viên đang thực tập 
+         Trong bối cảnh thương mại điện tử ngày càng phát triển, việc gợi ý sản phẩm phù hợp cho người dùng trở thành một yếu tố then chốt trong việc giữ chân khách hàng và tăng cường doanh số bán hàng. Các website bán hàng hiện nay thường sử dụng các phương pháp gợi ý đơn giản, chẳng hạn như hiển thị "sản phẩm bán chạy" hoặc "sản phẩm được xem nhiều nhất". Tuy nhiên, những phương pháp này thường không tận dụng được dữ liệu hành vi phong phú của người dùng, dẫn đến trải nghiệm mua sắm không tối ưu và khả năng gợi ý không cá nhân hóa.
+        Việc áp dụng thuật toán lọc cộng tác (Collaborative Filtering) là một giải pháp hiệu quả để cải thiện khả năng gợi ý sản phẩm. Lọc cộng tác hoạt động dựa trên dữ liệu hành vi của người dùng, cho phép hệ thống phát hiện những sản phẩm mà người dùng có sở thích tương đồng đã chọn. Điều này không chỉ giúp tạo ra các gợi ý cá nhân hóa mà còn mang lại trải nghiệm mua sắm phong phú hơn, giúp khách hàng cảm thấy được hiểu và phục vụ tốt hơn.
+       Bằng cách sử dụng lọc cộng tác, các website có thể tối ưu hóa quy trình gợi ý sản phẩm, từ đó tăng khả năng chuyển đổi từ người dùng tiềm năng thành khách hàng thực sự. Hệ thống này cũng giúp tăng cường sự trung thành của khách hàng, vì họ sẽ có nhiều khả năng quay lại mua sắm khi cảm thấy rằng các sản phẩm được gợi ý phù hợp với nhu cầu và sở thích cá nhân của họ.
+       Ngoài ra, lọc cộng tác còn có thể giúp phát hiện các xu hướng mới trong hành vi người tiêu dùng, từ đó điều chỉnh chiến lược tiếp thị và quản lý hàng tồn kho hiệu quả hơn. Kết quả là, việc áp dụng lọc cộng tác không chỉ cải thiện trải nghiệm người dùng mà còn gia tăng hiệu quả kinh doanh cho các website thương mại điện tử.
+Giao Diện Dễ Sử Dụng
+         Giao diện được thiết kế đơn giản và trực quan, giúp người dùng dễ dàng tương tác mà không gặp khó khăn. Sự thân thiện của giao diện không chỉ thu hút người dùng phổ thông mà còn tạo cảm giác thoải mái khi sử dụng. Điều này rất quan trọng trong việc giảm thiểu tỷ lệ thoát và khuyến khích khách hàng khám phá các sản phẩm khác nhau.
+Hệ Thống Gợi Ý Cá Nhân Hóa
+       Hệ thống gợi ý hoạt động dựa trên dữ liệu mô phỏng của người dùng, cho phép đưa ra những gợi ý sản phẩm phù hợp với sở thích cá nhân. Khả năng cá nhân hóa này không chỉ tăng cường trải nghiệm người dùng mà còn tạo ra cảm giác kết nối và sự chú ý từ phía nhà cung cấp dịch vụ, từ đó khuyến khích khách hàng quay lại.
+Gắn Kết Lý Thuyết và Thực Tiễn
+       Đề tài không chỉ dừng lại ở lý thuyết khoa học dữ liệu mà còn áp dụng các kiến thức đã học vào thực tế trong lĩnh vực thương mại điện tử. Sự kết hợp này giúp sinh viên hiểu rõ hơn về cách mà lý thuyết có thể được áp dụng trong thực tế, đồng thời cung cấp cho họ những kỹ năng cần thiết để phát triển trong môi trường làm việc tương lai.
+Hạn Chế
+Mô Hình Chưa Phát Triển Đầy Đủ
+      Mặc dù hệ thống gợi ý có khả năng hoạt động tốt trên dữ liệu mô phỏng, nhưng mô hình hiện tại vẫn còn dừng lại ở mức đơn giản. Việc chưa tích hợp các kỹ thuật học sâu (deep learning) hoặc xử lý dữ liệu thực tế lớn có thể làm giảm khả năng gợi ý chính xác và hiệu quả. Điều này khiến cho hệ thống không thể tối ưu hóa hoàn toàn trải nghiệm người dùng như mong đợi.
+Website Chưa Tối Ưu Cho Triển Khai Thực Tế
+         Hiện tại, website chỉ là một bản mẫu, chưa được tối ưu hóa cho việc triển khai trong môi trường thực tế. Điều này có thể dẫn đến một số vấn đề như tốc độ tải trang chậm, khả năng mở rộng kém, và không tương thích với các thiết bị di động khác nhau. Để có thể đáp ứng nhu cầu thực tế của người dùng, cần có thêm thời gian và nguồn lực để cải thiện và hoàn thiện website.
+         <img width="432" height="212" alt="image" src="https://github.com/user-attachments/assets/abbc52ac-2634-49f7-b46a-4a747f21b62b" />
+Hệ gợi ý được sử dụng từ dữ liệu đánh giá sản phẩm của khách hàng
+         <img width="393" height="174" alt="image" src="https://github.com/user-attachments/assets/238544f4-425d-4309-ab1b-5802ce0f5880" />
+
+
