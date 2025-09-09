@@ -19,9 +19,8 @@ Website Chưa Tối Ưu Cho Triển Khai Thực Tế
          Hiện tại, website chỉ là một bản mẫu, chưa được tối ưu hóa cho việc triển khai trong môi trường thực tế. Điều này có thể dẫn đến một số vấn đề như tốc độ tải trang chậm, khả năng mở rộng kém, và không tương thích với các thiết bị di động khác nhau. Để có thể đáp ứng nhu cầu thực tế của người dùng, cần có thêm thời gian và nguồn lực để cải thiện và hoàn thiện website.
          <img width="432" height="212" alt="image" src="https://github.com/user-attachments/assets/abbc52ac-2634-49f7-b46a-4a747f21b62b" />
          
-Hệ gợi ý được sử dụng từ dữ liệu đánh giá sản phẩm của khách hàng
-
 
          <img width="393" height="174" alt="image" src="https://github.com/user-attachments/assets/238544f4-425d-4309-ab1b-5802ce0f5880" />
+
 
 
